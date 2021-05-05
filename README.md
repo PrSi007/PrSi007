@@ -12,7 +12,7 @@ Skills : HTML / CSS / BOOTSTRAP / REACT / C++ / JAVA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrSi007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prakhar-singh-9136821b2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prakhar___07/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15784763) <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  
-
+<br>
  ---
 
 ## ⚡ Technologies
@@ -27,7 +27,6 @@ Skills : HTML / CSS / BOOTSTRAP / REACT / C++ / JAVA
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
   ---
   
 ## 📊 Stats:
@@ -50,6 +49,7 @@ Skills : HTML / CSS / BOOTSTRAP / REACT / C++ / JAVA
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=PrSi007&theme=vision-friendly-dark">
   </a>
+  <br>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=PrSi007&theme=react-dark">
