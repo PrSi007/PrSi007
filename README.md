@@ -57,7 +57,7 @@ Skills : HTML / CSS / BOOTSTRAP / REACT / C++ / JAVA
   </a>
 </p>
  
- ![](https://komarev.com/ghpvc/?username=PrSi007&color=green)
+                                                    ![](https://komarev.com/ghpvc/?username=PrSi007&color=green)
 
 
 --- Made with ❤️ and JavaScript.
