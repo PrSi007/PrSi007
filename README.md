@@ -11,7 +11,8 @@ Skills : HTML / CSS / BOOTSTRAP / REACT / C++ / JAVA
 - ⚡ Fun fact:  Marvel Geek , extremely passionate for Football  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrSi007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prakhar-singh-9136821b2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prakhar___07/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15784763) <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrSi007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prakhar-singh-9136821b2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prakhar___07/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15784763) <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+![](https://komarev.com/ghpvc/?username=PrSi007&color=green)
 <br>
  ---
 
@@ -56,8 +57,6 @@ Skills : HTML / CSS / BOOTSTRAP / REACT / C++ / JAVA
     <img src="https://activity-graph.herokuapp.com/graph?username=PrSi007&theme=react-dark">
   </a>
 </p>
- 
-                                                    ![](https://komarev.com/ghpvc/?username=PrSi007&color=green)
 
 
 --- Made with ❤️ and JavaScript.
