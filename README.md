@@ -7,7 +7,7 @@ I am a Second year B-Tech CSE student  and a front end enthusiast .
 Skills : HTML / CSS / BOOTSTRAP / REACT.Js / C++ / JAVA / MERN STACK 
 
 - 🔭 I’m currently working on React 
-- 🌱 I’m currently learning Node Js , Php 
+- 🌱 I’m currently learning MERN Stack
 - ⚡ Fun fact:  Marvel Geek , extremely passionate for Football  
 
 
