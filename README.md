@@ -2,7 +2,7 @@
 
 I am a Second year B-Tech CSE student  and a front end enthusiast .
 
-<image src="./1_nTk_aV3yziTsz7QbDsqnkA.png">
+<image src="./wp8903905.jpg">
  
 Skills : HTML / CSS / BOOTSTRAP / REACT.Js / C++ / JAVA / MERN STACK 
 
