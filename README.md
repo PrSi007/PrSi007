@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Prakhar
 
-I am a B-Tech CSE student and an aspiring Full Stack Developer.
+I am a B-Tech CSE student and an aspiring Frontend Developer.
 
 <image src="./fed.png">
 
