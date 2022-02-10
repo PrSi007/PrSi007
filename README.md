@@ -2,7 +2,7 @@
 
 I am a B-Tech CSE student and an aspiring Full Stack Developer.
 
-<image src="./wp8903905.jpg">
+<image src="./fed.png">
  
 Skills : HTML / CSS / BOOTSTRAP / REACT.Js / C++ / JAVA / MERN STACK 
 
