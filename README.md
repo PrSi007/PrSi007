@@ -3,8 +3,6 @@
 I am a B-Tech CSE student and an aspiring Full Stack Developer.
 
 <image src="./fed.png">
- 
-Skills : HTML / CSS / BOOTSTRAP / REACT.Js / C++ / JAVA / MERN STACK 
 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning MERN Stack
