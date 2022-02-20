@@ -44,7 +44,7 @@ I am a B-Tech CSE student and an aspiring Frontend Developer.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrSi007&layout=compact&theme=vision-friendly-dark&background=0d1117"  height="165">
   </a>
   <br>
- [![LeetCode Stats](https://leetcode.card.workers.dev/dolanmiu?theme=auto&font=baloo&extension=activity)](https://leetcode.com/dolanmiu/)
+ [![LeetCode Stats](https://leetcode.card.workers.dev/PrSi007?theme=auto&font=baloo&extension=activity)](https://leetcode.com/PrSi007/)
 </p>
 
   ---
