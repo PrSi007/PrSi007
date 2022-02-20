@@ -45,7 +45,7 @@ I am a B-Tech CSE student and an aspiring Frontend Developer.
   </a>
   <br>
  <a href="https://leetcode.com/SUNNY___07">
-    <img title="Prakhar Singh's LeetCode Stats" alt="Prakhar Singh's LeetCode Stats" src="https://leetcode.card.workers.dev/JacobLinCool?theme=nord&font=baloo&width=498&border=0.5&cache=300" />
+    <img title="Prakhar Singh's LeetCode Stats" alt="Prakhar Singh's LeetCode Stats" src="https://leetcode.card.workers.dev/SUNNY___07?theme=nord&font=baloo&width=498&border=0.5&cache=300" />
   </a>
 </p>
   ---
