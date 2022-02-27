@@ -58,7 +58,6 @@ I am a B-Tech CSE student and an aspiring Frontend Developer.
     <img src="http://github-readme-streak-stats.herokuapp.com?user=PrSi007&theme=vision-friendly-dark">
   </a>
   <br>
-  <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=PrSi007&theme=react-dark">
   </a>
