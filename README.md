@@ -47,6 +47,10 @@ I am a B-Tech CSE student and an aspiring Frontend Developer.
  <a href="https://leetcode.com/SUNNY___07">
     <img title="Prakhar Singh's LeetCode Stats" alt="Prakhar Singh's LeetCode Stats" src="https://leetcode.card.workers.dev/SUNNY___07?theme=dark&font=baloo&width=498&border=0.5&cache=300" />
   </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+     <img src="https://activity-graph.herokuapp.com/graph?username=PrSi007&theme=react-dark">
+   </a>
 </p>
   
  ---
@@ -56,10 +60,6 @@ I am a B-Tech CSE student and an aspiring Frontend Developer.
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=PrSi007&theme=vision-friendly-dark">
-  </a>
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=PrSi007&theme=github">
   </a>
 </p>
 
