@@ -59,7 +59,7 @@ I am a B-Tech CSE student and an aspiring Frontend Developer.
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=PrSi007&theme=react-dark">
+    <img src="https://activity-graph.herokuapp.com/graph?username=PrSi007&theme=github">
   </a>
 </p>
 
