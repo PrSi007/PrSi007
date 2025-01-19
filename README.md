@@ -1,12 +1,6 @@
 ### Hi there 👋, my name is Prakhar
 
-I am a B-Tech CSE student and an aspiring Frontend Developer.
-
-<image src="./fed.png">
-
-- 🔭 I’m currently working on React 
-- 🌱 I’m currently learning MERN Stack
-- ⚡ Fun fact:  Marvel Geek , extremely passionate for Football  
+I am a B-Tech CSE graduate and an aspiring Software Developer.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrSi007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prakhar-singh-9136821b2/)
