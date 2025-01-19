@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Prakhar
+### Hi there , my name is Prakhar 👋
 
 I am a B-Tech CSE graduate and an aspiring Software Developer.
 
